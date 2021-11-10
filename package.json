@@ -1,0 +1,17 @@
+{
+  "name": "tunniplaan",
+  "version": "1.0.0",
+  "description": "Discord bot that shows a class schedule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul Adamson",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "puppeteer": "^11.0.0"
+  }
+}
